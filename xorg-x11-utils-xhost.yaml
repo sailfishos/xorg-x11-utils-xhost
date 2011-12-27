@@ -1,6 +1,6 @@
 Name: xorg-x11-utils-xhost
 Summary: X.Org X11 xhost utility
-Version: 1.0.3
+Version: 1.0.4
 Release: 1
 Group: System/X11
 License: MIT/X11
@@ -15,3 +15,6 @@ PkgConfigBR:
     - xmuu
     - xau
 Configure: configure
+
+Description: |
+    %{summary}.
